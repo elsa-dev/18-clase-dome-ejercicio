@@ -1,0 +1,15 @@
+.centro {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.tipografia {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: red;
+}
+
